@@ -1,0 +1,170 @@
+.banner {
+	background-color: #504040;
+	height: 60px;
+	text-align: center;
+}
+.banner ul{
+	list-style: none;
+	margin-top: 3%;
+}
+.banner h1{
+	margin-top: 3%;
+}
+.banner li{
+	display: inline;
+	margin-left: 60px;
+}
+.banner a {
+	color:  #E3D4D4;
+	text-decoration: none;
+}
+.banner a:hover{
+	color: #E35F5F;
+}
+/*aca comienza la foto y sus comentarios al lado*/
+.foto	{
+	background-color: #BBA0A0;
+	width: 1200px;
+	height: 500px;
+	margin-left: 35px;
+}
+
+.foto img{
+	width: 500px;
+	height: 350px;
+	margin-left: 55px;
+	margin-top: 50px;
+}
+.foto h2 {
+	margin-top: 50px;
+}
+.foto h4{
+	width: 350px;
+	margin-top: 14px;
+	font-size: 18px;
+	text-align: left;
+}
+.foto button{
+	background-color:#867C7C;
+	border:none;
+	border-radius: 12px;
+	padding: 10px;
+	margin-top: 30px;
+}
+.foto a{
+	text-decoration: none;
+	color: #E3D4D4;
+}
+.foto a:hover{
+	color: #99F4ED;
+}
+/*aca comienza la parte de latest project*/
+.galeria {
+	margin-top: 10px;
+	margin-left: 35px;
+}
+.galeria h1{
+	margin-top: 30px;
+	color: #ACA3A3;
+	font-size: 28px;
+}
+.galeria ul{
+	text-decoration: none;
+	margin-top: 10px;
+}
+.galeria li {
+	display: inline-block;
+}
+.galeria a{
+	text-decoration: none;
+	color: #ACA3A3; 
+	font-size: 12px;
+}
+/*aca comienza la parte de las pic*/
+.mona {
+	margin-left: 35px;
+	margin-top: 25px;
+	width: 350px;
+	height: 150px;
+}
+.nina{
+	margin-left: 35px;
+	margin-top: 25px;
+	width: 350px;
+	height: 150px;
+}
+.pic  h3 {
+	margin-left: 35px;
+}
+.pic  i {
+	margin-left: 35px;
+}
+.pic h4{
+	margin-left: 35px;
+}
+.galeria2 h3 {
+	margin-left: 35px;
+}
+.galeria2 i {
+	padding: 5px;
+}
+.galeria2 h4{
+	margin-left: 35px;
+}
+.galeria3 h3 {
+	margin-left: 35px;
+}
+.galeria3 i {
+	padding: 5px;
+}
+.galeria3 h4 {
+	margin-left: 35px;
+}
+/*aca comienza la parte de load more*/
+.load button {
+	background-color:#867C7C;
+	border:none;
+	border-radius: 12px;
+	padding: 10px;
+	margin-top: 100px;
+	margin-left: 40%;
+	width: 200px;
+}
+.load a{
+	text-decoration: none;
+	color: #E3D4D4;
+}
+.load a:hover{
+	color: #99F4ED;
+}
+/*aca comienza la parte de footer*/
+.twit {
+	margin-top: 50px;
+}
+.pajaro {
+	margin-left: 100px;
+	width: 50px;
+	height: 45px;
+	margin-top: 25px;
+}
+.twit button{
+	background-color:#867C7C;
+	border:none;
+	border-radius: 12px;
+	padding: 10px;
+	margin-top: 50px;
+}
+.twit a{
+	text-decoration: none;
+	color: #E3D4D4;
+}
+.twit a:hover{
+	color: #99F4ED;
+}
+.twit h3 {
+	margin-right: 250px;
+	margin-top: 25px;
+}
+.twit h3 a {
+	color: #EC4141;
+}
